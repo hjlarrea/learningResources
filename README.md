@@ -9,3 +9,4 @@ List of online free learning resources:
 - https://youtube.com/powershellorg
 - https://aischool.microsoft.com
 - https://www.edx.org/
+- https://azure.microsoft.com/en-ca/resources/kubernetes-learning-path/
