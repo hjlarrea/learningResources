@@ -3,10 +3,11 @@
 # Learning Resources
 List of online free learning resources:
 
-- https://mva.microsoft.com/
-- https://docs.microsoft.com/en-us/learn/
-- https://developer.microsoft.com/en-us/collective/learning/courses
-- https://youtube.com/powershellorg
-- https://aischool.microsoft.com
-- https://www.edx.org/
-- https://azure.microsoft.com/en-ca/resources/kubernetes-learning-path/
+- Microsoft Virtual Academy: https://mva.microsoft.com/
+- Microsoft Learn: https://docs.microsoft.com/en-us/learn/
+- Microsoft Developer: https://developer.microsoft.com/en-us/collective/learning/courses
+- PowerShell & Devops Summit: https://youtube.com/powershellorg
+- Microsoft AI School: https://aischool.microsoft.com
+- EDX: https://www.edx.org/
+- PowerShell Master Class (John Savill): https://www.youtube.com/playlist?list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8
+- Azure Kuberneters: https://azure.microsoft.com/en-ca/resources/kubernetes-learning-path/
