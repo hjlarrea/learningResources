@@ -1,5 +1,3 @@
-**`WORK IN PROGRESS`**
-
 # Learning Resources
 List of online free learning resources:
 
