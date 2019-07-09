@@ -11,3 +11,4 @@ List of online free learning resources:
 - EDX: https://www.edx.org/
 - PowerShell Master Class (John Savill): https://www.youtube.com/playlist?list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8
 - Azure Kuberneters: https://azure.microsoft.com/en-ca/resources/kubernetes-learning-path/
+- Sysinternals Video Library: https://www.youtube.com/playlist?list=PL96F5PDvO1HHuVewlKWQDzzTUrhMm-wGS
